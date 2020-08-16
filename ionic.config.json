@@ -1,7 +1,8 @@
 {
   "name": "Youth3",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "ionic-angular",
   "id": "f37244a0"
