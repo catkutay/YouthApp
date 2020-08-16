@@ -1,9 +1,7 @@
 {
-  "name": "Youth3",
+  "name": "YouthApp",
   "integrations": {
-    "capacitor": {},
-    "cordova": {}
+    "capacitor": {}
   },
-  "type": "ionic-angular",
-  "id": "f37244a0"
+  "type": "ionic-angular"
 }

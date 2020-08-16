@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "Youth3",
+  "appName": "YouthApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
